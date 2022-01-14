@@ -3,6 +3,7 @@
 }
 
 body {
+    font-family: 'Nunito';
     background-color: #efefef;
 }
 
@@ -90,7 +91,7 @@ body {
 .box-container #box ul li {
     text-align: left;
     padding-right: 45px;
-    font-family: 'Nunito', serif;
+    font-family: 'Nunito';
     color: black;
     list-style: none;
     font-family: monospace;
