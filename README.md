@@ -1,2 +1,9 @@
 # Perpetual-Pocket
-Web Layout 
+
+##### Web Application Layout for Household Services.
+
+## Built with
+
+* HTML
+* CSS 
+* JavaScript
