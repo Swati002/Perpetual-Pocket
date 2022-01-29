@@ -1,6 +1,6 @@
 # Perpetual-Pocket
 
-##### Web Application Layout for Household Services.
+##### Web Application Layout to book Household Services.
 
 ## Built with
 
